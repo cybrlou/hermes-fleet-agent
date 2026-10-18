@@ -1,0 +1,7 @@
+.env
+agent.env
+*.log
+__pycache__/
+.venv/
+venv/
+.DS_Store
